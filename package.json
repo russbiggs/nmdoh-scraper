@@ -1,0 +1,10 @@
+{
+  "name": "nmdoh-scrape",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "aws-sdk": "^2.639.0",
+    "aws-xray-sdk": "^2.5.0"
+  }
+}
